@@ -1,4 +1,3 @@
-# Build a standalone Linux executable:
 # venv & pyinstaller
 ```
 sudo apt install python3-pip
