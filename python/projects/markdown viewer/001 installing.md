@@ -10,18 +10,29 @@ pyinstaller --version
 ```
 
 # dependencies venv
-in venv you need to install the dependencies again, in this case:
 ```
 pip install pyqt6 markdown pyinstaller
 ```
+
+# build standalone
+```
+pyinstaller --onefile --windowed mdview.py
+```
+
 # dependencies system
 ```
 sudo apt install libxcb-cursor0
 ```
 
-```
-pyinstaller --onefile --windowed mdview.py
-```
-The executable will be:
-
+The executable will be:  
 `dist/mdviewer`
+
+
+
+
+
+
+
+
+
+
