@@ -6,6 +6,8 @@ python3 -m venv venv
 source venv/bin/activate
 pip install pyinstaller
 pyinstaller --version
+```
+```
 pyinstaller --onefile --windowed mdview.py
 ```
 The executable will be:
