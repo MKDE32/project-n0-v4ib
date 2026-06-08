@@ -7,9 +7,15 @@ source venv/bin/activate
 pip install pyinstaller
 pyinstaller --version
 ```
+
+# dependencies venv
 in venv you need to install the dependencies again, in this case:
 ```
 pip install pyqt6 markdown pyinstaller
+```
+# dependencies system
+```
+sudo apt install libxcb-cursor0
 ```
 
 ```
