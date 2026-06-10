@@ -1,3 +1,4 @@
+```html
 <!DOCTYPE html>
 <html lang="de">
 <head>
@@ -9,3 +10,4 @@
 	<a href="/python">Code</a>
 </body>
 </html>
+```
