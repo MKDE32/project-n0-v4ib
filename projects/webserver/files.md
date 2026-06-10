@@ -1,0 +1,20 @@
+```html
+<!DOCTYPE html>
+<html lang="de">
+<head>
+	<meta charset="UTF-8">
+	<title>Mein Webserver</title>
+</head>
+<body>
+	<h1>My Python scripts</h1>
+
+	<ul>
+		{% for datei in dateien %}
+			<li>
+				<a href="/python/{{ datei }}">{{ datei }}</a>
+			</li>	
+		{% endfor %}	
+	</ul>
+</body>
+</html>
+```
