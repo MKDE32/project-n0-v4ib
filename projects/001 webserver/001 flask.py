@@ -1,4 +1,4 @@
-```python
+
 from flask import Flask, render_template
 import os
 
@@ -36,4 +36,3 @@ def python_anzeigen(dateiname):
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=80, debug=True)
-```
