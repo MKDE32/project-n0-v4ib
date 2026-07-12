@@ -1,0 +1,1578 @@
+être:sein
+avoir:haben
+faire:machen, tun
+aller:gehen
+venir:kommen
+pouvoir:können
+vouloir:wollen
+devoir:müssen, sollen
+savoir:wissen, können
+falloir:nötig sein (il faut)
+voir:sehen
+prendre:nehmen
+donner:geben
+mettre:legen, stellen, setzen
+parler:sprechen
+aimer:mögen, lieben
+passer:vorbeigehen, verbringen
+trouver:finden
+penser:denken
+demander:fragen, bitten
+rester:bleiben
+répondre:antworten
+entendre:hören
+connaître:kennen
+paraître:scheinen
+laisser:lassen
+appeler:rufen, anrufen, nennen
+arriver:ankommen
+sentir:fühlen, riechen
+attendre:warten
+tenir:halten
+sembler:scheinen
+regarder:schauen
+suivre:folgen
+comprendre:verstehen
+commencer:beginnen
+finir:beenden, fertig sein
+travailler:arbeiten
+jouer:spielen
+manger:essen
+boire:trinken
+dormir:schlafen
+lire:lesen
+écrire:schreiben
+ouvrir:öffnen
+fermer:schließen
+apprendre:lernen
+enseigner:unterrichten, lehren
+étudier:studieren
+comparer:vergleichen
+choisir:wählen
+oublier:vergessen
+rappeler:erinnern
+souvenir (se):sich erinnern
+chercher:suchen
+acheter:kaufen
+vendre:verkaufen
+payer:bezahlen
+coûter:kosten
+gagner:gewinnen, verdienen
+perdre:verlieren
+utiliser:benutzen
+servir:dienen, servieren
+préparer:vorbereiten
+cuisiner:kochen
+laver:waschen
+nettoyer:putzen, reinigen
+ranger:aufräumen
+construire:bauen
+détruire:zerstören
+créer:erschaffen
+produire:produzieren
+réparer:reparieren
+casser:zerbrechen
+tomber:fallen
+lever:heben
+monter:hochgehen, steigen
+descendre:hinuntergehen
+entrer:eintreten
+sortir:hinausgehen
+partir:abfahren, weggehen
+revenir:zurückkommen
+retourner:zurückkehren
+rentrer:heimkommen
+voyager:reisen
+visiter:besuchen
+habiter:wohnen
+vivre:leben
+naître:geboren werden
+mourir:sterben
+grandir:wachsen
+vieillir:altern
+changer:ändern
+devenir:werden
+continuer:fortsetzen
+arrêter:aufhören, anhalten
+essayer:versuchen
+réussir:gelingen, schaffen
+échouer:scheitern
+gagner du temps:Zeit gewinnen
+décider:entscheiden
+proposer:vorschlagen
+accepter:annehmen
+refuser:ablehnen
+promettre:versprechen
+mentir:lügen
+avouer:gestehen
+expliquer:erklären
+raconter:erzählen
+décrire:beschreiben
+signifier:bedeuten
+indiquer:anzeigen
+montrer:zeigen
+cacher:verstecken
+découvrir:entdecken
+inventer:erfinden
+imaginer:sich vorstellen
+rêver:träumen
+espérer:hoffen
+souhaiter:wünschen
+craindre:befürchten
+avoir peur:Angst haben
+s'inquiéter:sich sorgen
+se fâcher:sich ärgern
+se calmer:sich beruhigen
+pleurer:weinen
+rire:lachen
+sourire:lächeln
+apprécier:schätzen
+adorer:lieben, verehren
+détester:hassen
+préférer:bevorzugen
+partager:teilen
+offrir:anbieten, schenken
+recevoir:erhalten, empfangen
+remercier:danken
+excuser:entschuldigen
+pardonner:verzeihen
+aider:helfen
+sauver:retten
+protéger:schützen
+défendre:verteidigen
+attaquer:angreifen
+combattre:kämpfen
+lutter:kämpfen
+organiser:organisieren
+planifier:planen
+réserver:reservieren
+annuler:stornieren
+confirmer:bestätigen
+inviter:einladen
+accueillir:empfangen, willkommen heißen
+présenter:vorstellen
+remarquer:bemerken
+observer:beobachten
+surveiller:überwachen
+contrôler:kontrollieren
+vérifier:überprüfen
+mesurer:messen
+compter:zählen
+calculer:berechnen
+diviser:teilen
+ajouter:hinzufügen
+soustraire:subtrahieren
+multiplier:multiplizieren
+augmenter:erhöhen
+diminuer:verringern
+réduire:reduzieren
+baisser:senken
+dépasser:überschreiten, überholen
+précéder:vorausgehen
+accompagner:begleiten
+quitter:verlassen
+abandonner:aufgeben
+poursuivre:verfolgen, fortsetzen
+atteindre:erreichen
+toucher:berühren
+frapper:schlagen
+pousser:schieben, drücken
+tirer:ziehen
+porter:tragen
+transporter:transportieren
+livrer:liefern
+envoyer:senden
+apporter:mitbringen
+emporter:mitnehmen
+emprunter:leihen (von jmd.)
+prêter:leihen (an jmd.)
+rendre:zurückgeben
+échanger:tauschen
+remplacer:ersetzen
+remplir:füllen, ausfüllen
+vider:leeren
+verser:gießen, einschenken
+mélanger:mischen
+couper:schneiden
+tailler:schneiden, zuschneiden
+coller:kleben
+plier:falten
+déplier:auffalten
+tourner:drehen
+poser:legen, stellen
+placer:platzieren
+installer:installieren
+déménager:umziehen
+emménager:einziehen
+louer:mieten
+signer:unterschreiben
+noter:notieren
+souligner:unterstreichen
+effacer:löschen
+imprimer:drucken
+photographier:fotografieren
+filmer:filmen
+enregistrer:aufnehmen
+diffuser:ausstrahlen
+publier:veröffentlichen
+annoncer:ankündigen
+informer:informieren
+avertir:warnen
+prévenir:vorwarnen
+menacer:bedrohen
+insulter:beleidigen
+critiquer:kritisieren
+féliciter:gratulieren
+encourager:ermutigen
+décourager:entmutigen
+motiver:motivieren
+convaincre:überzeugen
+persuader:überreden
+influencer:beeinflussen
+imposer:auferlegen
+interdire:verbieten
+permettre:erlauben
+autoriser:genehmigen
+respecter:respektieren
+mépriser:verachten
+juger:beurteilen
+condamner:verurteilen
+punir:bestrafen
+récompenser:belohnen
+la famille:die Familie
+le père:der Vater
+la mère:die Mutter
+le fils:der Sohn
+la fille:die Tochter
+le frère:der Bruder
+la sœur:die Schwester
+le grand-père:der Großvater
+la grand-mère:die Großmutter
+les grands-parents:die Großeltern
+l'oncle:der Onkel
+la tante:die Tante
+le cousin:der Cousin
+la cousine:die Cousine
+le neveu:der Neffe
+la nièce:die Nichte
+le mari:der Ehemann
+la femme:die Frau, Ehefrau
+l'époux:der Ehemann
+l'épouse:die Ehefrau
+le beau-père:der Schwiegervater, Stiefvater
+la belle-mère:die Schwiegermutter, Stiefmutter
+le beau-frère:der Schwager
+la belle-sœur:die Schwägerin
+l'enfant:das Kind
+le bébé:das Baby
+l'adolescent:der Jugendliche
+l'adulte:der Erwachsene
+la personne:die Person
+l'homme:der Mann
+la jeune fille:das junge Mädchen
+le garçon:der Junge
+l'ami:der Freund
+l'amie:die Freundin
+le copain:der Kumpel, Freund
+la copine:die Freundin, Kumpelin
+le voisin:der Nachbar
+la voisine:die Nachbarin
+le collègue:der Kollege
+la collègue:die Kollegin
+le patron:der Chef
+la patronne:die Chefin
+l'employé:der Angestellte
+l'employée:die Angestellte
+le client:der Kunde
+la cliente:die Kundin
+le corps:der Körper
+la tête:der Kopf
+le visage:das Gesicht
+les cheveux:die Haare
+l'œil:das Auge
+les yeux:die Augen
+le nez:die Nase
+la bouche:der Mund
+la dent:der Zahn
+l'oreille:das Ohr
+le cou:der Hals
+l'épaule:die Schulter
+le bras:der Arm
+la main:die Hand
+le doigt:der Finger
+la jambe:das Bein
+le genou:das Knie
+le pied:der Fuß
+le dos:der Rücken
+le ventre:der Bauch
+le cœur:das Herz
+la peau:die Haut
+la santé:die Gesundheit
+la maladie:die Krankheit
+le médecin:der Arzt
+l'infirmier:der Krankenpfleger
+l'infirmière:die Krankenschwester
+l'hôpital:das Krankenhaus
+la pharmacie:die Apotheke
+le médicament:das Medikament
+la douleur:der Schmerz
+la fièvre:das Fieber
+le rhume:die Erkältung
+la grippe:die Grippe
+la blessure:die Verletzung
+l'accident:der Unfall
+le traitement:die Behandlung
+l'opération:die Operation
+la consultation:die Sprechstunde
+le rendez-vous:der Termin
+l'ordonnance:das Rezept
+la vaccination:die Impfung
+la guérison:die Genesung
+en bonne santé:bei guter Gesundheit
+malade:krank
+guéri:geheilt
+fatigué:müde
+en forme:fit
+la maison:das Haus
+l'appartement:die Wohnung
+la pièce:das Zimmer
+la chambre:das Schlafzimmer
+le salon:das Wohnzimmer
+la cuisine:die Küche
+la salle de bains:das Badezimmer
+les toilettes:die Toilette
+le couloir:der Flur
+l'escalier:die Treppe
+la porte:die Tür
+la fenêtre:das Fenster
+le mur:die Wand
+le toit:das Dach
+le sol:der Boden
+le plafond:die Decke
+le jardin:der Garten
+le balcon:der Balkon
+la terrasse:die Terrasse
+la cave:der Keller
+le grenier:der Dachboden
+le garage:die Garage
+le meuble:das Möbelstück
+la table:der Tisch
+la chaise:der Stuhl
+le fauteuil:der Sessel
+le canapé:das Sofa
+le lit:das Bett
+l'armoire:der Schrank
+l'étagère:das Regal
+le tiroir:die Schublade
+le miroir:der Spiegel
+la lampe:die Lampe
+le tapis:der Teppich
+le rideau:der Vorhang
+la clé:der Schlüssel
+la serrure:das Schloss
+le loyer:die Miete
+le propriétaire:der Eigentümer, Vermieter
+le locataire:der Mieter
+le quartier:das Viertel
+la rue:die Straße
+l'adresse:die Adresse
+le voisinage:die Nachbarschaft
+le repas:die Mahlzeit
+le petit-déjeuner:das Frühstück
+le déjeuner:das Mittagessen
+le dîner:das Abendessen
+le goûter:der Nachmittagssnack
+la nourriture:das Essen
+la boisson:das Getränk
+le pain:das Brot
+le beurre:die Butter
+la confiture:die Marmelade
+le fromage:der Käse
+le lait:die Milch
+l'œuf:das Ei
+la viande:das Fleisch
+le poulet:das Hähnchen
+le bœuf:das Rindfleisch
+le porc:das Schweinefleisch
+le poisson:der Fisch
+les fruits de mer:die Meeresfrüchte
+le légume:das Gemüse
+la pomme de terre:die Kartoffel
+la carotte:die Karotte
+la tomate:die Tomate
+la salade:der Salat
+l'oignon:die Zwiebel
+l'ail:der Knoblauch
+le fruit:die Frucht
+la pomme:der Apfel
+la poire:die Birne
+la banane:die Banane
+l'orange:die Orange
+le citron:die Zitrone
+la fraise:die Erdbeere
+le raisin:die Traube
+la cerise:die Kirsche
+le sucre:der Zucker
+le sel:das Salz
+le poivre:der Pfeffer
+l'huile:das Öl
+le vinaigre:der Essig
+la farine:das Mehl
+le riz:der Reis
+les pâtes:die Nudeln
+la soupe:die Suppe
+le dessert:der Nachtisch
+le gâteau:der Kuchen
+la tarte:die Torte
+la glace:das Eis
+le chocolat:die Schokolade
+le café:der Kaffee
+le thé:der Tee
+l'eau:das Wasser
+le jus:der Saft
+le vin:der Wein
+la bière:das Bier
+la recette:das Rezept
+cuire:kochen, garen
+griller:grillen
+frire:braten
+bouillir:kochen (sieden)
+goûter:probieren
+délicieux:köstlich
+salé:salzig
+sucré:süß
+amer:bitter
+épicé:scharf, gewürzt
+avoir faim:Hunger haben
+avoir soif:Durst haben
+le vêtement:das Kleidungsstück
+la chemise:das Hemd
+le pantalon:die Hose
+la jupe:der Rock
+la robe:das Kleid
+le pull:der Pullover
+la veste:die Jacke
+le manteau:der Mantel
+le costume:der Anzug
+le tee-shirt:das T-Shirt
+le short:die Shorts
+les chaussures:die Schuhe
+les bottes:die Stiefel
+les baskets:die Turnschuhe
+les chaussettes:die Socken
+la ceinture:der Gürtel
+le chapeau:der Hut
+l'écharpe:der Schal
+les gants:die Handschuhe
+les lunettes:die Brille
+le sac:die Tasche
+le sac à main:die Handtasche
+le bijou:der Schmuck
+la bague:der Ring
+le collier:die Halskette
+la montre:die Uhr (Armbanduhr)
+s'habiller:sich anziehen
+se déshabiller:sich ausziehen
+la taille:die Größe
+la mode:die Mode
+l'école:die Schule
+le collège:die Mittelschule
+le lycée:das Gymnasium
+l'université:die Universität
+la classe:die Klasse
+le cours:der Kurs, Unterricht
+l'élève:der Schüler
+l'étudiant:der Student
+le professeur:der Lehrer, Professor
+le directeur:der Direktor
+la matière:das Schulfach
+le devoir:die Hausaufgabe
+l'examen:die Prüfung
+le test:der Test
+la note:die Note
+le diplôme:das Diplom
+le baccalauréat:das Abitur
+la bibliothèque:die Bibliothek
+le livre:das Buch
+le cahier:das Heft
+le stylo:der Kugelschreiber
+le crayon:der Bleistift
+la gomme:der Radiergummi
+la règle:das Lineal
+le tableau:die Tafel
+la craie:die Kreide
+le sac à dos:der Rucksack
+réviser:wiederholen (Lernstoff)
+la leçon:die Lektion
+l'exercice:die Übung
+la question:die Frage
+la réponse:die Antwort
+le vocabulaire:der Wortschatz
+la grammaire:die Grammatik
+la langue étrangère:die Fremdsprache
+le travail:die Arbeit
+le métier:der Beruf
+la profession:der Beruf
+l'emploi:die Anstellung
+le chômage:die Arbeitslosigkeit
+l'entreprise:das Unternehmen
+la société:die Firma, Gesellschaft
+le bureau:das Büro
+l'usine:die Fabrik
+la réunion:die Besprechung
+le projet:das Projekt
+la tâche:die Aufgabe
+le salaire:das Gehalt
+le contrat:der Vertrag
+la carrière:die Karriere
+la retraite:die Rente
+le stage:das Praktikum
+le stagiaire:der Praktikant
+le candidat:der Bewerber
+l'entretien:das Vorstellungsgespräch
+le curriculum vitae (CV):der Lebenslauf
+embaucher:einstellen
+licencier:entlassen
+démissionner:kündigen
+promouvoir:befördern
+l'ouvrier:der Arbeiter
+l'ingénieur:der Ingenieur
+l'avocat:der Anwalt
+le vendeur:der Verkäufer
+la vendeuse:die Verkäuferin
+le cuisinier:der Koch
+le serveur:der Kellner
+la serveuse:die Kellnerin
+le chauffeur:der Fahrer
+le pilote:der Pilot
+l'agriculteur:der Landwirt
+le fonctionnaire:der Beamte
+le journaliste:der Journalist
+l'écrivain:der Schriftsteller
+l'artiste:der Künstler
+le musicien:der Musiker
+le peintre:der Maler
+l'architecte:der Architekt
+le voyage:die Reise
+le transport:der Transport
+la voiture:das Auto
+le train:der Zug
+l'avion:das Flugzeug
+le bateau:das Schiff
+le bus:der Bus
+le métro:die U-Bahn
+le tramway:die Straßenbahn
+le vélo:das Fahrrad
+la moto:das Motorrad
+le taxi:das Taxi
+la gare:der Bahnhof
+l'aéroport:der Flughafen
+le port:der Hafen
+l'arrêt:die Haltestelle
+le billet:die Fahrkarte, das Ticket
+le passeport:der Reisepass
+la valise:der Koffer
+les bagages:das Gepäck
+la réservation:die Reservierung
+le vol:der Flug
+le départ:die Abfahrt, der Abflug
+l'arrivée:die Ankunft
+le retard:die Verspätung
+la correspondance:der Anschluss (Verkehr)
+conduire:fahren (Auto)
+piloter:steuern (Flugzeug)
+voler:fliegen
+naviguer:segeln, navigieren
+la route:die Straße
+l'autoroute:die Autobahn
+le chemin:der Weg
+la carte:die Karte
+la direction:die Richtung
+la destination:das Reiseziel
+l'hôtel:das Hotel
+l'auberge:die Herberge
+la chambre d'hôtel:das Hotelzimmer
+la réception:die Rezeption
+le camping:das Camping
+la tente:das Zelt
+la frontière:die Grenze
+le douanier:der Zöllner
+le touriste:der Tourist
+l'étranger:das Ausland, der Ausländer
+à l'étranger:im Ausland
+la nature:die Natur
+le temps:das Wetter
+le soleil:die Sonne
+la pluie:der Regen
+le vent:der Wind
+la neige:der Schnee
+le nuage:die Wolke
+le brouillard:der Nebel
+l'orage:das Gewitter
+la tempête:der Sturm
+le ciel:der Himmel
+la température:die Temperatur
+le climat:das Klima
+la saison:die Jahreszeit
+le printemps:der Frühling
+l'été:der Sommer
+l'automne:der Herbst
+l'hiver:der Winter
+chaud:heiß
+froid:kalt
+frais:frisch, kühl
+humide:feucht
+sec:trocken
+il pleut:es regnet
+il neige:es schneit
+la montagne:der Berg
+la colline:der Hügel
+la vallée:das Tal
+la forêt:der Wald
+l'arbre:der Baum
+la fleur:die Blume
+l'herbe:das Gras
+la feuille:das Blatt
+la rivière:der Fluss
+le fleuve:der Strom
+le lac:der See
+la mer:das Meer
+l'océan:der Ozean
+la plage:der Strand
+l'île:die Insel
+le désert:die Wüste
+le champ:das Feld
+l'animal:das Tier
+le chien:der Hund
+le chat:die Katze
+l'oiseau:der Vogel
+le cheval:das Pferd
+la vache:die Kuh
+le mouton:das Schaf
+le cochon:das Schwein
+la poule:das Huhn
+le lapin:das Kaninchen
+l'insecte:das Insekt
+la ville:die Stadt
+le village:das Dorf
+le centre-ville:die Innenstadt
+la banlieue:der Vorort
+la place:der Platz
+le monument:das Denkmal
+l'église:die Kirche
+la cathédrale:die Kathedrale
+le musée:das Museum
+le théâtre:das Theater
+le cinéma:das Kino
+la mairie:das Rathaus
+la poste:die Post
+la banque:die Bank
+le magasin:das Geschäft
+le supermarché:der Supermarkt
+le marché:der Markt
+la boulangerie:die Bäckerei
+la boucherie:die Metzgerei
+le restaurant:das Restaurant
+le parc:der Park
+le stade:das Stadion
+la piscine:das Schwimmbad
+la station-service:die Tankstelle
+le parking:der Parkplatz
+le pont:die Brücke
+le trottoir:der Bürgersteig
+le carrefour:die Kreuzung
+le feu (rouge):die Ampel
+l'heure:die Stunde, Uhrzeit
+la minute:die Minute
+la seconde:die Sekunde
+le jour:der Tag
+la semaine:die Woche
+le mois:der Monat
+l'année:das Jahr
+le siècle:das Jahrhundert
+aujourd'hui:heute
+hier:gestern
+demain:morgen
+avant-hier:vorgestern
+après-demain:übermorgen
+maintenant:jetzt
+bientôt:bald
+tôt:früh
+tard:spät
+souvent:oft
+toujours:immer
+jamais:nie
+parfois:manchmal
+rarement:selten
+lundi:Montag
+mardi:Dienstag
+mercredi:Mittwoch
+jeudi:Donnerstag
+vendredi:Freitag
+samedi:Samstag
+dimanche:Sonntag
+janvier:Januar
+février:Februar
+mars:März
+avril:April
+mai:Mai
+juin:Juni
+juillet:Juli
+août:August
+septembre:September
+octobre:Oktober
+novembre:November
+décembre:Dezember
+le matin:der Morgen
+l'après-midi:der Nachmittag
+le soir:der Abend
+la nuit:die Nacht
+le week-end:das Wochenende
+la date:das Datum
+le calendrier:der Kalender
+l'anniversaire:der Geburtstag
+la fête:das Fest, der Feiertag
+les vacances:die Ferien
+heureux:glücklich
+content:zufrieden
+triste:traurig
+fâché:verärgert
+en colère:wütend
+inquiet:besorgt
+nerveux:nervös
+calme:ruhig
+détendu:entspannt
+stressé:gestresst
+excité:aufgeregt
+surpris:überrascht
+étonné:erstaunt
+déçu:enttäuscht
+fier:stolz
+honteux:beschämt
+jaloux:eifersüchtig
+amoureux:verliebt
+timide:schüchtern
+courageux:mutig
+gentil:nett
+méchant:böse
+sympathique:sympathisch
+antipathique:unsympathisch
+patient:geduldig
+impatient:ungeduldig
+généreux:großzügig
+égoïste:egoistisch
+honnête:ehrlich
+malhonnête:unehrlich
+sérieux:ernsthaft
+drôle:lustig
+intelligent:intelligent
+stupide:dumm
+curieux:neugierig
+prudent:vorsichtig
+paresseux:faul
+travailleur:fleißig
+optimiste:optimistisch
+pessimiste:pessimistisch
+la joie:die Freude
+la tristesse:die Traurigkeit
+la peur:die Angst
+la colère:die Wut
+l'amour:die Liebe
+la haine:der Hass
+l'espoir:die Hoffnung
+le bonheur:das Glück
+le caractère:der Charakter
+la personnalité:die Persönlichkeit
+l'humeur:die Laune
+grand:groß
+petit:klein
+long:lang
+court:kurz
+large:breit
+étroit:eng
+haut:hoch
+bas:niedrig
+lourd:schwer
+léger:leicht
+fort:stark
+faible:schwach
+rapide:schnell
+lent:langsam
+facile:einfach
+difficile:schwierig
+simple:einfach
+compliqué:kompliziert
+important:wichtig
+inutile:nutzlos
+utile:nützlich
+nécessaire:notwendig
+possible:möglich
+impossible:unmöglich
+vrai:wahr
+faux:falsch
+bon:gut
+mauvais:schlecht
+meilleur:besser
+pire:schlechter
+nouveau:neu
+vieux:alt
+jeune:jung
+ancien:alt, ehemalig
+moderne:modern
+beau:schön
+joli:hübsch
+laid:hässlich
+propre:sauber
+sale:schmutzig
+plein:voll
+vide:leer
+ouvert:offen
+fermé:geschlossen
+libre:frei
+occupé:beschäftigt, besetzt
+riche:reich
+pauvre:arm
+cher:teuer
+bon marché:billig
+gratuit:kostenlos
+différent:unterschiedlich
+même:gleich, selbe
+pareil:ähnlich
+semblable:ähnlich
+entier:ganz
+complet:vollständig
+suffisant:ausreichend
+public:öffentlich
+privé:privat
+normal:normal
+étrange:seltsam
+bizarre:seltsam
+spécial:besonders
+particulier:besonders, speziell
+général:allgemein
+principal:hauptsächlich
+secondaire:untergeordnet
+suivant:folgend
+précédent:vorherig
+dernier:letzter
+premier:erster
+prochain:nächster
+très:sehr
+trop:zu (sehr)
+assez:ziemlich, genug
+peu:wenig
+beaucoup:viel
+plus:mehr
+moins:weniger
+autant:ebenso viel
+tellement:so sehr
+vraiment:wirklich
+absolument:absolut
+totalement:total
+complètement:vollständig
+presque:fast
+environ:etwa
+seulement:nur
+aussi:auch
+encore:noch, wieder
+déjà:schon
+plus tard:später
+tout de suite:sofort
+d'abord:zuerst
+ensuite:dann, anschließend
+enfin:schließlich
+puis:dann
+alors:also, dann
+donc:also, folglich
+pourtant:jedoch
+cependant:jedoch
+néanmoins:dennoch
+malgré:trotz
+grâce à:dank
+à cause de:wegen
+sauf:außer
+sans:ohne
+avec:mit
+selon:laut, gemäß
+d'après:laut
+par exemple:zum Beispiel
+en fait:eigentlich, tatsächlich
+en général:im Allgemeinen
+en particulier:insbesondere
+en effet:in der Tat
+au contraire:im Gegenteil
+par contre:andererseits
+bien sûr:natürlich
+peut-être:vielleicht
+probablement:wahrscheinlich
+certainement:sicherlich
+évidemment:offensichtlich
+heureusement:glücklicherweise
+malheureusement:leider
+franchement:ehrlich gesagt
+finalement:schließlich, letztendlich
+soudain:plötzlich
+tout à coup:plötzlich
+volontiers:gerne
+exprès:absichtlich
+plutôt:eher
+ailleurs:anderswo
+partout:überall
+nulle part:nirgendwo
+quelque part:irgendwo
+dans:in
+sur:auf
+sous:unter
+devant:vor
+derrière:hinter
+entre:zwischen
+parmi:unter (mehreren)
+chez:bei
+vers:in Richtung
+jusqu'à:bis
+depuis:seit
+pendant:während
+avant:vor
+après:nach
+pour:für
+contre:gegen
+au-dessus de:oberhalb von
+au-dessous de:unterhalb von
+à côté de:neben
+près de:in der Nähe von
+loin de:weit weg von
+autour de:um herum
+en face de:gegenüber von
+et:und
+ou:oder
+mais:aber
+car:denn
+ni:noch (weder-noch)
+si:wenn, falls
+que:dass
+quand:wenn, als
+comme:wie, da
+parce que:weil
+puisque:da, weil
+bien que:obwohl
+quoique:obwohl
+afin que:damit
+pour que:damit
+avant que:bevor
+après que:nachdem
+dès que:sobald
+tant que:solange
+alors que:während, wohingegen
+la communication:die Kommunikation
+le téléphone:das Telefon
+le portable:das Handy
+l'ordinateur:der Computer
+Internet:das Internet
+le site web:die Website
+le courriel:die E-Mail
+le message:die Nachricht
+l'application:die App
+le réseau social:das soziale Netzwerk
+la télévision:das Fernsehen
+la radio:das Radio
+le journal:die Zeitung
+la revue:die Zeitschrift
+la nouvelle:die Nachricht
+l'information:die Information
+la publicité:die Werbung
+téléphoner:telefonieren
+envoyer un message:eine Nachricht senden
+communiquer:kommunizieren
+discuter:diskutieren
+bavarder:plaudern
+se disputer:sich streiten
+se réconcilier:sich versöhnen
+la conversation:das Gespräch
+le débat:die Debatte
+l'opinion:die Meinung
+le point de vue:der Standpunkt
+l'avis:die Meinung
+le pays:das Land
+la nation:die Nation
+le gouvernement:die Regierung
+le président:der Präsident
+le ministre:der Minister
+la loi:das Gesetz
+le droit:das Recht
+la liberté:die Freiheit
+l'égalité:die Gleichheit
+la justice:die Gerechtigkeit
+la démocratie:die Demokratie
+l'élection:die Wahl
+voter:wählen
+le citoyen:der Bürger
+la culture:die Kultur
+la religion:die Religion
+la guerre:der Krieg
+la paix:der Frieden
+l'économie:die Wirtschaft
+l'argent:das Geld
+le prix:der Preis
+le coût:die Kosten
+le budget:das Budget
+la crise:die Krise
+le problème:das Problem
+la solution:die Lösung
+l'environnement:die Umwelt
+la pollution:die Verschmutzung
+l'énergie:die Energie
+les ressources:die Ressourcen
+le développement:die Entwicklung
+le progrès:der Fortschritt
+la technologie:die Technologie
+la science:die Wissenschaft
+la recherche:die Forschung
+le loisir:die Freizeitbeschäftigung
+le sport:der Sport
+le football:der Fußball
+le basket:der Basketball
+le tennis:das Tennis
+la natation:das Schwimmen
+la course:das Laufen
+le ski:das Skifahren
+la randonnée:die Wanderung
+la musique:die Musik
+le concert:das Konzert
+le film:der Film
+la peinture:die Malerei
+la lecture:das Lesen
+le jeu:das Spiel
+le jouet:das Spielzeug
+la danse:der Tanz
+la soirée:der Abend, die Party
+l'invitation:die Einladung
+s'amuser:sich amüsieren
+se détendre:sich entspannen
+se reposer:sich ausruhen
+l'équipe:die Mannschaft
+le joueur:der Spieler
+l'entraîneur:der Trainer
+le match:das Spiel (Wettkampf)
+la compétition:der Wettbewerb
+la médaille:die Medaille
+le champion:der Meister
+le résultat:das Ergebnis
+zéro:null
+un:eins
+deux:zwei
+trois:drei
+quatre:vier
+cinq:fünf
+six:sechs
+sept:sieben
+huit:acht
+neuf:neun
+dix:zehn
+onze:elf
+douze:zwölf
+vingt:zwanzig
+trente:dreißig
+quarante:vierzig
+cinquante:fünfzig
+cent:hundert
+mille:tausend
+million:Million
+deuxième:zweiter
+troisième:dritter
+la moitié:die Hälfte
+le tiers:das Drittel
+le quart:das Viertel
+la douzaine:das Dutzend
+le nombre:die Zahl
+le chiffre:die Ziffer
+la quantité:die Menge
+plusieurs:mehrere
+quelques:einige
+chaque:jeder
+tout:alles, ganz
+tous:alle
+le nom:der Name
+le prénom:der Vorname
+la nationalité:die Nationalität
+la naissance:die Geburt
+la date de naissance:das Geburtsdatum
+l'identité:die Identität
+la carte d'identité:der Personalausweis
+la signature:die Unterschrift
+la situation:die Situation
+la vie:das Leben
+la mort:der Tod
+la routine:die Routine
+l'habitude:die Gewohnheit
+se réveiller:aufwachen
+se lever:aufstehen
+se laver:sich waschen
+se doucher:duschen
+se brosser les dents:sich die Zähne putzen
+se coiffer:sich kämmen
+se raser:sich rasieren
+se coucher:sich hinlegen, ins Bett gehen
+s'endormir:einschlafen
+se dépêcher:sich beeilen
+se promener:spazieren gehen
+s'occuper de:sich kümmern um
+se souvenir de:sich erinnern an
+se rendre compte:bemerken, sich bewusst werden
+se sentir:sich fühlen
+s'intéresser à:sich interessieren für
+s'ennuyer:sich langweilen
+se plaindre:sich beschweren
+bonjour:guten Tag, hallo
+bonsoir:guten Abend
+au revoir:auf Wiedersehen
+salut:hallo, tschüss
+s'il vous plaît:bitte (formell)
+s'il te plaît:bitte (informell)
+merci:danke
+merci beaucoup:vielen Dank
+de rien:keine Ursache
+excusez-moi:entschuldigen Sie
+pardon:Verzeihung
+enchanté:sehr erfreut (Begrüßung)
+comment ça va:wie geht's
+ça va:es geht (gut)
+à bientôt:bis bald
+à demain:bis morgen
+à tout à l'heure:bis später
+bonne nuit:gute Nacht
+bon appétit:guten Appetit
+bonne chance:viel Glück
+félicitations:Glückwunsch
+bienvenue:willkommen
+qui:wer
+quoi:was
+quel:welcher
+quelle:welche
+où:wo
+pourquoi:warum
+comment:wie
+combien:wie viel
+lequel:welcher (von mehreren)
+je:ich
+tu:du
+il:er
+elle:sie
+nous:wir
+vous:ihr, Sie
+ils:sie (m.)
+elles:sie (f.)
+on:man
+moi:ich (betont)
+toi:du (betont)
+lui:er, ihm
+soi:sich
+mon:mein
+ton:dein
+son:sein, ihr
+notre:unser
+votre:euer, Ihr
+leur:ihr (Plural)
+ce:dies, dieser
+cette:diese
+ces:diese (Plural)
+celui:derjenige
+celle:diejenige
+ceux:diejenigen
+qui est-ce que:wer (Objektfrage)
+est-ce que:Fragepartikel
+n'est-ce pas:nicht wahr
+l'argent liquide:das Bargeld
+la carte bancaire:die Bankkarte
+le compte:das Konto
+le distributeur:der Geldautomat
+retirer de l'argent:Geld abheben
+déposer:einzahlen
+virer:überweisen
+le virement:die Überweisung
+la monnaie:das Kleingeld, die Währung
+la facture:die Rechnung
+le reçu:die Quittung
+la caisse:die Kasse
+le caissier:der Kassierer
+faire les courses:einkaufen
+faire du shopping:shoppen
+le rayon:die Abteilung (im Geschäft)
+la vitrine:das Schaufenster
+la promotion:die Aktion, das Sonderangebot
+la réduction:der Rabatt
+le solde:der Schlussverkauf
+en solde:im Ausverkauf
+le panier:der Einkaufskorb
+le chariot:der Einkaufswagen
+la boutique:der Laden
+le grand magasin:das Kaufhaus
+la caisse enregistreuse:die Registrierkasse
+l'emballage:die Verpackung
+le sac plastique:die Plastiktüte
+la commande:die Bestellung
+commander:bestellen
+la livraison:die Lieferung
+l'ordinateur portable:der Laptop
+la tablette:das Tablet
+le clavier:die Tastatur
+l'écran:der Bildschirm
+la souris:die Maus (Computer)
+le fichier:die Datei
+le dossier:der Ordner
+télécharger:herunterladen
+l'imprimante:der Drucker
+le mot de passe:das Passwort
+le compte utilisateur:das Benutzerkonto
+se connecter:sich einloggen
+se déconnecter:sich abmelden
+la connexion:die Verbindung
+le réseau:das Netzwerk
+le logiciel:die Software
+l'appareil:das Gerät
+la batterie:die Batterie, der Akku
+charger:aufladen
+allumer:einschalten
+éteindre:ausschalten
+le bouton:der Knopf
+la caméra:die Kamera
+la photo:das Foto
+la vidéo:das Video
+le haut-parleur:der Lautsprecher
+l'écouteur:der Kopfhörer
+le microphone:das Mikrofon
+briser la glace:das Eis brechen (Redewendung)
+avoir le cafard:niedergeschlagen sein
+en avoir marre:die Nase voll haben
+avoir du mal à:Schwierigkeiten haben mit
+tomber amoureux:sich verlieben
+faire la queue:Schlange stehen
+avoir raison:recht haben
+avoir tort:unrecht haben
+avoir besoin de:brauchen
+avoir envie de:Lust haben auf
+avoir l'air:aussehen, scheinen
+avoir lieu:stattfinden
+avoir hâte:es kaum erwarten können
+faire attention:aufpassen
+faire de son mieux:sein Bestes geben
+faire semblant:so tun als ob
+prendre soin de:sich kümmern um
+prendre son temps:sich Zeit lassen
+prendre une décision:eine Entscheidung treffen
+tenir compte de:berücksichtigen
+mettre en place:einrichten, umsetzen
+mettre au point:entwickeln, ausarbeiten
+donner un coup de main:helfen
+poser une question:eine Frage stellen
+rendre visite à:jemanden besuchen
+faire du bruit:Lärm machen
+faire confiance:vertrauen
+perdre patience:die Geduld verlieren
+changer d'avis:seine Meinung ändern
+se mettre d'accord:sich einigen
+être d'accord:einverstanden sein
+tenir parole:sein Wort halten
+perdre du temps:Zeit verlieren
+le début:der Anfang
+la fin:das Ende
+le milieu:die Mitte
+le côté:die Seite
+le centre:das Zentrum
+le bord:der Rand
+le coin:die Ecke
+la surface:die Oberfläche
+la ligne:die Linie
+le point:der Punkt
+la forme:die Form
+la couleur:die Farbe
+rouge:rot
+bleu:blau
+vert:grün
+jaune:gelb
+noir:schwarz
+blanc:weiß
+gris:grau
+marron:braun
+orange:orange
+rose:rosa
+violet:violett
+clair:hell
+foncé:dunkel
+rond:rund
+carré:quadratisch
+rectangulaire:rechteckig
+triangulaire:dreieckig
+plat:flach
+courbé:gebogen
+droit:gerade
+pointu:spitz
+lisse:glatt
+rugueux:rau
+solide:fest, solide
+liquide:flüssig
+gazeux:gasförmig
+transparent:durchsichtig
+opaque:undurchsichtig
+brillant:glänzend
+mat:matt
+mou:weich
+dur:hart
+souple:geschmeidig
+rigide:starr
+élastique:elastisch
+fragile:zerbrechlich
+résistant:widerstandsfähig
+stable:stabil
+instable:instabil
+sécurisé:sicher
+dangereux:gefährlich
+sûr:sicher
+risqué:riskant
+imprudent:unvorsichtig
+attentif:aufmerksam
+distrait:unaufmerksam
+concentré:konzentriert
+tendu:angespannt
+serein:gelassen
+anxieux:ängstlich
+apaisé:beruhigt
+énervé:genervt
+agacé:verärgert
+irrité:gereizt
+soulagé:erleichtert
+rassuré:beruhigt
+confiant:zuversichtlich
+méfiant:misstrauisch
+sceptique:skeptisch
+convaincu:überzeugt
+hésitant:zögerlich
+décidé:entschlossen
+déterminé:entschlossen
+motivé:motiviert
+démotivé:demotiviert
+enthousiaste:begeistert
+indifférent:gleichgültig
+passionné:leidenschaftlich
+ennuyeux:langweilig
+intéressant:interessant
+captivant:fesselnd
+fascinant:faszinierend
+étonnant:erstaunlich
+surprenant:überraschend
+incroyable:unglaublich
+impressionnant:beeindruckend
+remarquable:bemerkenswert
+extraordinaire:außergewöhnlich
+exceptionnel:außergewöhnlich
+ordinaire:gewöhnlich
+banal:banal
+courant:üblich, gängig
+habituel:gewohnt
+inhabituel:ungewöhnlich
+fréquent:häufig
+rare:selten
+occasionnel:gelegentlich
+régulier:regelmäßig
+irrégulier:unregelmäßig
+constant:konstant
+variable:veränderlich
+le distributeur automatique:der Geldautomat
+la dette:die Schuld
+l'épargne:das Erspartes
+économiser:sparen
+dépenser:ausgeben
+emprunter de l'argent:Geld leihen
+prêter de l'argent:Geld verleihen
+investir:investieren
+rembourser:zurückzahlen
+l'assurance:die Versicherung
+les impôts:die Steuern
+le taux:der Zinssatz, die Rate
+le revenu:das Einkommen
+les bénéfices:der Gewinn
+la perte:der Verlust
+l'offre:das Angebot
+la demande:die Nachfrage
+la concurrence:die Konkurrenz
+le fournisseur:der Lieferant
+la garantie:die Garantie
+le devis:der Kostenvoranschlag
+la dépense:die Ausgabe
+le fait divers:die Randnotiz, Kurzmeldung
+l'actualité:die aktuellen Nachrichten
+l'événement:das Ereignis
+le témoin:der Zeuge
+la victime:das Opfer
+le coupable:der Schuldige
+la police:die Polizei
+le voleur:der Dieb
+le crime:das Verbrechen
+la sécurité:die Sicherheit
+le danger:die Gefahr
+l'incendie:der Brand
+les pompiers:die Feuerwehr
+l'urgence:der Notfall
+secourir:retten
+alerter:alarmieren
+signaler:melden
+le témoignage:die Zeugenaussage
+enquêter:ermitteln
+l'enquête:die Untersuchung
+libérer:freilassen
+le tribunal:das Gericht
+le juge:der Richter
+le procès:der Prozess
+la peine:die Strafe
+la prison:das Gefängnis
+innocent:unschuldig
+coupable:schuldig
+la preuve:der Beweis
+le règlement:die Vorschrift
+respecter la loi:das Gesetz einhalten
+enfreindre:verstoßen gegen
+l'amende:das Bußgeld
+la sanction:die Sanktion
+le permis:die Erlaubnis, der Führerschein
+l'autorisation:die Genehmigung
+interdit:verboten
+autorisé:erlaubt
+obligatoire:verpflichtend
+facultatif:freiwillig
+le règlement intérieur:die Hausordnung
+la responsabilité:die Verantwortung
+responsable:verantwortlich
+irresponsable:unverantwortlich
+le droit de vote:das Wahlrecht
+la citoyenneté:die Staatsbürgerschaft
+l'immigration:die Einwanderung
+l'émigration:die Auswanderung
+le réfugié:der Flüchtling
+l'asile:das Asyl
+la douane:der Zoll
+le visa:das Visum
+la population:die Bevölkerung
+l'habitant:der Einwohner
+la densité:die Dichte
+la région:die Region
+la province:die Provinz
+la capitale:die Hauptstadt
+le continent:der Kontinent
+le globe:der Globus
+la carte du monde:die Weltkarte
+l'hémisphère:die Hemisphäre
+l'équateur:der Äquator
+le pôle:der Pol
+le nord:der Norden
+le sud:der Süden
+l'est:der Osten
+l'ouest:der Westen
+au nord de:nördlich von
+au sud de:südlich von
+à l'est de:östlich von
+à l'ouest de:westlich von
+la latitude:der Breitengrad
+la longitude:der Längengrad
+le plan:der Stadtplan
+l'itinéraire:die Route
+le trajet:die Strecke
+la distance:die Entfernung
+tout droit:geradeaus
+à gauche:links
+à droite:rechts
+en haut:oben
+en bas:unten
+au milieu:in der Mitte
+au fond:im Hintergrund, hinten
+au premier plan:im Vordergrund
+en avant:vorwärts
+en arrière:rückwärts
+dedans:drinnen
+dehors:draußen
+là-bas:dort drüben
+ici:hier
+là:dort
+nourrir:ernähren, füttern
+élever:großziehen, aufziehen
+soigner:pflegen
+gérer:verwalten, managen
+diriger:leiten
+administrer:verwalten
+superviser:beaufsichtigen
+coordonner:koordinieren
+collaborer:zusammenarbeiten
+coopérer:kooperieren
+négocier:verhandeln
+la négociation:die Verhandlung
+l'accord:die Vereinbarung
+le désaccord:die Uneinigkeit
+le compromis:der Kompromiss
+le conflit:der Konflikt
+la dispute:der Streit
+la réconciliation:die Versöhnung
+le malentendu:das Missverständnis
+la confusion:die Verwirrung
+clarifier:klären
+préciser:präzisieren
+résumer:zusammenfassen
+le résumé:die Zusammenfassung
+détailler:detaillieren
+le détail:das Detail
+l'ensemble:das Ganze
+la partie:der Teil
+l'élément:das Element
+le composant:der Bestandteil
+l'aspect:der Aspekt
+le facteur:der Faktor
+la cause:die Ursache
+la conséquence:die Folge
+l'effet:die Wirkung
+l'impact:die Auswirkung
+le but:das Ziel
+l'objectif:das Ziel
+la stratégie:die Strategie
+la méthode:die Methode
+le moyen:das Mittel
+l'outil:das Werkzeug
+la technique:die Technik
+le procédé:das Verfahren
+l'étape:der Schritt, die Etappe
+le processus:der Prozess
+la phase:die Phase
+le niveau:das Niveau
+le degré:der Grad
+la mesure:die Maßnahme, das Maß
+l'échelle:die Skala, der Maßstab
+la norme:die Norm
+le standard:der Standard
+la qualité:die Qualität
+le volume:das Volumen
+le poids:das Gewicht
+la longueur:die Länge
+la largeur:die Breite
+la hauteur:die Höhe
+la profondeur:die Tiefe
+l'épaisseur:die Dicke
+le périmètre:der Umfang
+la capacité:die Kapazität
+le contenu:der Inhalt
+le contenant:der Behälter
+le récipient:das Gefäß
+la boîte:die Schachtel
+le carton:die Kartonschachtel
+le paquet:das Paket
+le colis:das Paket (Versand)
+l'enveloppe:der Umschlag
+le timbre:die Briefmarke
+la lettre:der Brief
+le courrier:die Post
+la boîte aux lettres:der Briefkasten
+expédier:versenden
+distribuer:verteilen
+l'expéditeur:der Absender
+le destinataire:der Empfänger
+
+
+
+
+
+
