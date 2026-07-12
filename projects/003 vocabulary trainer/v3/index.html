@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Vocab Trainer</title>
+<style>
+    body {
+        font-family: Arial;
+        text-align: center;
+        margin-top: 50px;
+    }
+    button {
+        padding: 10px 20px;
+        margin: 10px;
+        font-size: 16px;
+        cursor: pointer;
+    }
+    #word {
+        font-size: 30px;
+        margin: 20px;
+    }
+</style>
+</head>
+<body>
+
+<h1>Vocab Trainer</h1>
+
+<input type="file" id="fileInput" accept=".txt"><br><br>
+
+<div id="word">Charge un fichier</div>
+
+<button onclick="known()">✅ known</button>
+<button onclick="unknown()">❌ unknown</button>
+<button onclick="show()"> show</button>
+
+<p>Connu: <span id="knownCount">0</span> | Inconnu: <span id="unknownCount">0</span></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+let vocab = [];
+let current = null;
+let unknownList = [];
+
+let queue = [];
+let knownCount = 0;
+let unknownCount = 0;
+
+
+
+
+
+
+function shuffle(array) {
+    return array.sort(() => Math.random() - 0.5);
+}
+
+
+
+
+
+
+
+
+
+document.getElementById("fileInput").addEventListener("change", function(e) {
+    const file = e.target.files[0];
+    if (!file) return;
+
+    const reader = new FileReader();
+    reader.onload = function(e) {
+        parseText(e.target.result);
+        nextWord();
+    };
+    reader.readAsText(file);
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function parseText(text) {
+    vocab = text.split("\n")
+        .map(line => line.trim())
+        .filter(line => line.includes(":"))
+        .map(line => {
+            const [foreign, german] = line.split(":");
+            return {
+                foreign: foreign.trim(),
+                german: german.trim()
+            };
+        });
+    queue = shuffle([...vocab]);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function nextWord() {
+    if (vocab.length === 0) {
+        document.getElementById("word").innerText = "Liste vide";
+        return;
+    }
+
+
+    // 60% Chance für unbekannte Wörter
+    if (unknownList.length > 0 && Math.random() < 0.6) {
+
+        current = unknownList[
+            Math.floor(Math.random() * unknownList.length)
+        ];
+
+    } else {
+
+        // neue Wörter aus der gemischten Liste holen
+        if (queue.length === 0) {
+            queue = shuffle([...vocab]);
+        }
+
+        current = queue.pop();
+    }
+
+    document.getElementById("word").innerText = current.foreign;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function known() {
+    knownCount++;
+    document.getElementById("knownCount").innerText = knownCount;
+    nextWord();
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function unknown() {
+    alert(current.german);
+    unknownCount++;
+    document.getElementById("unknownCount").innerText = unknownCount;
+
+    unknownList.push(current); // important
+
+    nextWord();
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function show() {
+    alert(current.german);
+}
+
+
+
+
+
+
+</script>
+
+</body>
+</html>
