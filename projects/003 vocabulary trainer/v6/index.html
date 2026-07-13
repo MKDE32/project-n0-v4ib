@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Vocab Trainer</title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+    body {
+        font-family: Arial;
+        text-align: center;
+        margin-top: 50px;
+
+    background-image: url("bg.png");
+    background-size: cover;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+
+    min-height: 100vh;
+    }
+
+    button {
+        padding: 10px 20px;
+        margin: 10px;
+        font-size: 16px;
+        cursor: pointer;
+    }
+
+    #word {
+        font-size: 30px;
+        margin: 20px;
+    }
+
+#topRight {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+}
+
+
+
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body>
+
+<div id="topRight">
+    <select id="direction">
+        <option value="fr-de">FR → DE</option>
+        <option value="de-fr">DE → FR</option>
+    </select>
+</div>
+
+<h1>Vocabulary Trainer</h1>
+
+<input type="file" id="fileInput" accept=".txt"><br><br>
+
+<div id="word">Please load a wordlist..</div>
+
+<button onclick="known()">✅ known</button>
+<button onclick="unknown()">❌ unknown</button>
+<button onclick="show()"> show</button>
+
+<p>
+Known: <span id="knownCount">0</span> |
+Unknown: <span id="unknownCount">0</span> |
+Words: <span id="trainedCount">0</span>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+let vocab = [];
+let current = null;
+let unknownList = [];
+
+let queue = [];
+let knownCount = 0;
+let unknownCount = 0;
+let trainedWords = new Set();
+
+
+
+
+
+function shuffle(array) {
+    return array.sort(() => Math.random() - 0.5);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function updateTrainedCount() {
+    document.getElementById("trainedCount").innerText = trainedWords.size;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+document.getElementById("fileInput").addEventListener("change", function(e) {
+    const file = e.target.files[0];
+    if (!file) return;
+
+    const reader = new FileReader();
+    reader.onload = function(e) {
+        parseText(e.target.result);
+        nextWord();
+    };
+    reader.readAsText(file);
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function parseText(text) {
+    vocab = text.split("\n")
+        .map(line => line.trim())
+        .filter(line => line.includes(":"))
+        .map(line => {
+            const [foreign, german] = line.split(":");
+            return {
+                foreign: foreign.trim(),
+                german: german.trim()
+            };
+        });
+    queue = shuffle([...vocab]);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function nextWord() {
+    if (vocab.length === 0) {
+        document.getElementById("word").innerText = "Liste vide";
+        return;
+    }
+
+
+    // 60% Chance für unbekannte Wörter
+    if (unknownList.length > 0 && Math.random() < 0.6) {
+
+        current = unknownList[
+            Math.floor(Math.random() * unknownList.length)
+        ];
+
+    } else {
+
+        // neue Wörter aus der gemischten Liste holen
+        if (queue.length === 0) {
+            queue = shuffle([...vocab]);
+        }
+
+        current = queue.pop();
+    }
+
+const dir = document.getElementById("direction").value;
+
+if (dir === "fr-de") {
+    document.getElementById("word").innerText = current.foreign;
+} else {
+    document.getElementById("word").innerText = current.german;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function known() {
+    knownCount++;
+    document.getElementById("knownCount").innerText = knownCount;
+
+    trainedWords.add(current.foreign);
+    updateTrainedCount();
+
+    unknownList = unknownList.filter(word => word !== current);
+
+    nextWord();
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function unknown() {
+const dir = document.getElementById("direction").value;
+
+if (dir === "fr-de") {
+    alert(current.german);
+} else {
+    alert(current.foreign);
+}
+
+    unknownCount++;
+    document.getElementById("unknownCount").innerText = unknownCount;
+
+    trainedWords.add(current.foreign);
+    updateTrainedCount();
+
+
+
+
+
+    if (!unknownList.includes(current)) {
+        unknownList.push(current);
+    }
+
+    nextWord();
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function show() {
+    const dir = document.getElementById("direction").value;
+
+    if (dir === "fr-de") {
+        alert(current.german);
+    } else {
+        alert(current.foreign);
+    }
+}
+
+
+
+
+
+
+</script>
+
+</body>
+</html>
